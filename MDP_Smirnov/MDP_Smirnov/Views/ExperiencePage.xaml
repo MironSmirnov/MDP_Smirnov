@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MDP_Smirnov.Views.ExperiencePage">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" Margin="10">
+            <Image x:Name="profileImage"></Image>
+            <Label Text="Ma oskan teha valgusfoor ja muud." Font="20" TextColor="Red" HorizontalTextAlignment="Center"></Label>
+            <Label Text="Ma oskan teha valgusfoor, karussel, paevaplaan, lumememm, temperament, tabed page"
+                   TextColor="Black" HorizontalTextAlignment="Center"></Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
